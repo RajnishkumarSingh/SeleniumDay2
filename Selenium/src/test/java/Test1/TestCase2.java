@@ -22,6 +22,7 @@ public class TestCase2 {
 		Assert.assertEquals(title, "GitHub");
 		
 		System.out.println("Welcome to Continue with code..");
+		System.out.println("Welcome to Continue with code..");
 		
 	}
 	
